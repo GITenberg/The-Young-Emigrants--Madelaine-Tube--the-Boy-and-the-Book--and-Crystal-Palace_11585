@@ -1,0 +1,28 @@
+_repo: The-Young-Emigrants--Madelaine-Tube--the-Boy-and-the-Book--and-Crystal-Palace_11585
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sedgwick, Susan Anne Livingston Ridley
+    alias: Sedgwick, Mrs. Theodore
+    birthdate: 1788
+    deathdate: 1867
+    gutenberg_agent_id: '4038'
+    url: http://www.gutenberg.org/2009/agents/4038
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- GITenberg
+tableOfContents: The young emigrants -- Madelaine Tube and her blind brother; a Christmas
+  story for young people -- The boy and the book, or Hans Gensfleisch, the  little
+  printer -- The Crystal Palace; a story for boys and girls.
+title: The Young Emigrants; Madelaine Tube; the Boy and the Book; and Crystal Palace
+url: http://www.gutenberg.org/ebooks/11585
