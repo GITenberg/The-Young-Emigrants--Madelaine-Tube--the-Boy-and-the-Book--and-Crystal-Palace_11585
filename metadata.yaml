@@ -1,5 +1,8 @@
 _repo: The-Young-Emigrants--Madelaine-Tube--the-Boy-and-the-Book--and-Crystal-Palace_11585
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sedgwick, Susan Anne Livingston Ridley
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4038'
     url: http://www.gutenberg.org/2009/agents/4038
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11585#The-Young-Emigrants--Madelaine-Tube--the-Boy-and-the-Book--and-Crystal-Palace
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
